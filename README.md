@@ -1,11 +1,12 @@
 # MankFellix Whatsapp Bot
 
 
+
 <p align="center"><img src="https://media.discordapp.net/attachments/884998007093878828/892686855009624094/Proyek_Baru_43_327D6A1.png" /></p>
 
 ## About
 
-Template Bot Whatsapp
+Bot Whatsapp
 
 ## Hak Cipta
 
