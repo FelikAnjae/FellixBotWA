@@ -1,11 +1,7 @@
-# Kato Whatsapp Bot
+# MankFellix Whatsapp Bot
 
-[![Support via Trakteer](https://img.shields.io/badge/Support-me!-green)](https://trakteer.id/katowproject)
-[![License](https://img.shields.io/badge/LICENSE-CC--BY--SA--4.0-green)](https://github.com/KatowProject/Kato-Bot/blob/master/LICENSE)
-[![Server POS](https://img.shields.io/badge/discord-discord.gg%2F3QVwskz-blue)](https://discord.gg/3QVwskz)
-[![Chat](https://img.shields.io/discord/336336077755252738)]()
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/795771950076133438/803900781014548490/109509537_148938896780474_5364768492484447741_o.jpg" /></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/884998007093878828/892686855009624094/Proyek_Baru_43_327D6A1.png" /></p>
 
 ## About
 
