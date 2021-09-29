@@ -45,7 +45,7 @@ exports.conf = {
 exports.help = {
     name: 'help',
     description: 'list perintah',
-    usage: 'help / k!help [nama perintah]',
-    example: 'help / k!help help'
+    usage: 'help / f!help [nama perintah]',
+    example: 'help / f!help help'
 }
 
