@@ -1,7 +1,7 @@
 const { Client } = require('whatsapp-web.js');
 const Util = require('./util.js');
 
-module.exports = class Kato extends Client {
+module.exports = class Fellix extends Client {
 
     constructor(opt) {
         super(opt);
