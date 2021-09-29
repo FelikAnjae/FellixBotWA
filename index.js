@@ -1,7 +1,7 @@
 const Whatsapp = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
-const Kato = require('./handler/ClientBuilder.js');
-const client = new Kato();
+const Fellix = require('./handler/ClientBuilder.js');
+const client = new Fellix();
 
 require('./handler/module.js')(client);
 require('./handler/Event.js')(client);
